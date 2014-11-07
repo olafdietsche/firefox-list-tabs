@@ -1,0 +1,11 @@
+{
+  "name": "list-tabs",
+  "title": "List all tabs",
+  "id": "list-tabs@olafdietsche.de",
+  "description": "Show and manage all tabs.",
+  "author": "Olaf Dietsche",
+  "license": "MIT",
+  "version": "0.20141107-2348",
+  "icon": "data/icon-48.png",
+  "icon64": "data/icon-64.png"
+}
